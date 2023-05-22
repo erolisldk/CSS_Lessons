@@ -1,0 +1,12 @@
+p{
+    color: yellow;
+    background-color: brown;
+    font-size: 20px;
+}
+
+h3{
+    color: turquoise;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
